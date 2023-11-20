@@ -5,4 +5,4 @@
 repository:
   description: Ansible role that dynamically creates the hosts file.
   homepage: https://buluma.github.io/
-  topics: hosts, system, ansible, molecule, tox, playbook, hacktoberfest
+  topics: hosts, system, ansible, molecule, tox, playbook

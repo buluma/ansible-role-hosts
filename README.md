@@ -1,10 +1,10 @@
-# [Ansible role hosts](#hosts)
+# Ansible role [hosts](https://galaxy.ansible.com/ui/standalone/roles/buluma/hosts/documentation)
 
 Ansible role that dynamically creates the hosts file.
 
-|GitHub|Version|Issues|Pull Requests|
-|------|-------|------|-------------|
-|[![github](https://github.com/buluma/ansible-role-hosts/actions/workflows/molecule.yml/badge.svg)](https://github.com/buluma/ansible-role-hosts/actions/workflows/molecule.yml)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-hosts.svg)](https://github.com/buluma/ansible-role-hosts/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-hosts.svg)](https://github.com/buluma/ansible-role-hosts/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-hosts.svg)](https://github.com/buluma/ansible-role-hosts/pulls/)|
+|GitHub|Version|Issues|Pull Requests|Downloads|
+|------|-------|------|-------------|---------|
+|[![github](https://github.com/buluma/ansible-role-hosts/actions/workflows/molecule.yml/badge.svg)](https://github.com/buluma/ansible-role-hosts/actions/workflows/molecule.yml)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-hosts.svg)](https://github.com/buluma/ansible-role-hosts/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-hosts.svg)](https://github.com/buluma/ansible-role-hosts/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-hosts.svg)](https://github.com/buluma/ansible-role-hosts/pulls/)|[![Ansible Role](https://img.shields.io/ansible/role/d/buluma/hosts)](https://galaxy.ansible.com/ui/standalone/roles/buluma/hosts/documentation)|
 
 ## [Example Playbook](#example-playbook)
 
@@ -140,9 +140,7 @@ If you find issues, please register them in [GitHub](https://github.com/buluma/a
 
 ## [Author Information](#author-information)
 
-[Michael Buluma](https://buluma.github.io/)
+[Shadow Walker](https://buluma.github.io/)
 
-
-### [Special Thanks](#special-thanks)
 
 Template inspired by [Robert de Bock](https://github.com/robertdebock)

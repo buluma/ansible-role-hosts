@@ -1,7 +1,7 @@
 ---
 # tasks file for buluma.hosts
 
-- name: "edit the hosts file in /etc"
+- name: Edit the hosts file in /etc
   become: true
   ansible.builtin.template:
     src: "etc/hosts.j2"

@@ -1,11 +1,10 @@
 ---
 galaxy_info:
   role_name: hosts
-  author: Michael Buluma
-  namespace: buluma
+  author: buluma
   description: Ansible role that dynamically creates the hosts file.
   license: Apache-2.0
-  min_ansible_version: 2.10
+  min_ansible_version: "2.12"
   platforms:
     - name: Alpine
       versions:
